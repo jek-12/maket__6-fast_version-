@@ -1,0 +1,4 @@
+# Ignore npm libraries
+/node_modules/
+# Ignore storm
+/.idea/
